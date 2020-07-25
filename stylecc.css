@@ -1,0 +1,37 @@
+.main{
+
+border :2px solid;
+background-color:#dcedc8;
+border-radius:40px;
+}
+
+.btn-s:hover{
+	color:white;
+	background-color: green;
+border-radius:40px;
+}
+.btn-w:hover{
+	border-radius:40px;
+	color:white;
+	background-color: red;
+}
+.btn-d:hover{
+	border-radius:40px;
+	color:white;
+	background-color: red;
+}
+.btn-d{
+			margin-left:10px;
+			border-radius:40px;
+}
+#list{
+
+margin-top:5px;
+
+}
+
+.lis:hover{
+		background-color:#c5e1a5;
+		border-radius:40px;
+		color: green;
+}	
